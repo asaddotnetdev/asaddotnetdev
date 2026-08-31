@@ -1,6 +1,6 @@
 # Hi, I'm Muhammad Asad 👋
 
-### Senior Software Engineer | .NET | ASP.NET Core | Web API | SQL Server
+### Senior .NET Developer | ASP.NET Core | Web API | SQL Server
 
 I am a Senior Software Engineer specialising in **.NET and ASP.NET Core development**, with experience building web applications, RESTful APIs, database-driven systems, and mobile applications.
 
