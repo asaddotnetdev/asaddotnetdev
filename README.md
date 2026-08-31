@@ -1,16 +1,54 @@
-## Hi there 👋
+# Hi, I'm Muhammad Asad 👋
 
-<!--
-**asaddotnetdev/asaddotnetdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Senior Software Engineer | .NET | ASP.NET Core | Web API | SQL Server
 
-Here are some ideas to get you started:
+I am a Senior Software Engineer specialising in **.NET and ASP.NET Core development**, with experience building web applications, RESTful APIs, database-driven systems, and mobile applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I focus on developing **scalable, maintainable, and practical software solutions** using modern Microsoft technologies.
+
+## 🛠️ Technologies & Skills
+
+- **C#**
+- **.NET / ASP.NET Core**
+- **ASP.NET Core Web API**
+- **Entity Framework Core**
+- **Dapper**
+- **LINQ**
+- **Microsoft SQL Server**
+- **Oracle Database**
+- **RESTful APIs**
+- **Redis**
+- **SignalR**
+- **.NET MAUI**
+- **IIS**
+- **Git & GitHub**
+
+## 📌 Featured Projects
+
+### MyApp
+A .NET MAUI mobile application with a dedicated ASP.NET Core Web API and shared DTOs/models.
+
+**Technologies:** .NET MAUI · ASP.NET Core Web API · C# · SQL Server
+
+🔗 [View MyApp Repository](https://github.com/asaddotnetdev/MyApp)
+
+## 💼 What I Do
+
+- Backend and API development
+- ASP.NET Core web application development
+- Database design and development
+- REST API development and integration
+- Performance optimisation
+- Enterprise application development
+- Mobile application development with .NET MAUI
+- Application deployment and support
+
+## 📫 Connect With Me
+
+- **LinkedIn:** [Muhammad Asad](https://www.linkedin.com/in/muhammad-asad-dotnet)
+- **GitHub:** [@asaddotnetdev](https://github.com/asaddotnetdev)
+- **Email:** asad.netdev@gmail.com
+
+---
+
+⭐ Feel free to explore my repositories and projects.
