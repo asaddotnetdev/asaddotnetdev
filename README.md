@@ -33,23 +33,16 @@ A mobile portal built with **.NET MAUI**, **ASP.NET Core Web API**, and **SQL Se
 
 🔗 [View MyApp Repository](https://github.com/asaddotnetdev/MyApp)
 
-### MyApp
-A .NET MAUI mobile application with a dedicated ASP.NET Core Web API and shared DTOs/models.
-
-**Technologies:** .NET MAUI · ASP.NET Core Web API · C# · SQL Server
-
-🔗 [View MyApp Repository](https://github.com/asaddotnetdev/MyApp)
-
 ## 💼 What I Do
 
-- Backend and API development
-- ASP.NET Core web application development
-- Database design and development
-- REST API development and integration
-- Performance optimisation
-- Enterprise application development
-- Mobile application development with .NET MAUI
-- Application deployment and support
+- Backend and API development with **ASP.NET Core**
+- Web application development using **ASP.NET Core MVC**
+- Database design and development with **SQL Server**
+- REST API development and third-party API integration
+- Performance optimisation and application troubleshooting
+- Enterprise and business application development
+- Cross-platform mobile application development with **.NET MAUI**
+- Application deployment and support using **IIS**
 
 ## 📫 Connect With Me
 
