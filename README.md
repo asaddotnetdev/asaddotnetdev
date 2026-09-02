@@ -11,6 +11,7 @@ I focus on developing **scalable, maintainable, and practical software solutions
 - **C#**
 - **.NET / ASP.NET Core**
 - **ASP.NET Core Web API**
+- **ASP.NET Core MVC**
 - **Entity Framework Core**
 - **Dapper**
 - **LINQ**
@@ -32,6 +33,14 @@ A mobile portal built with **.NET MAUI**, **ASP.NET Core Web API**, and **SQL Se
 **Technologies:** .NET MAUI · ASP.NET Core Web API · C# · SQL Server · Entity Framework Core · REST API
 
 🔗 [View MyApp Repository](https://github.com/asaddotnetdev/MyApp)
+
+### 🏢 ERP Business Management System
+
+A modular business management solution covering **HR, Payroll, Accounts, POS, CMS, and Restaurant Management**, designed to support business operations through integrated web-based modules.
+
+**Technologies:** ASP.NET Core · C# · SQL Server · Entity Framework Core · REST APIs · IIS
+
+**Key Areas:** HR · Payroll · Accounts · POS · CMS · Restaurant Management · Payment Integration
 
 ## 💼 What I Do
 
