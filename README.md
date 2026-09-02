@@ -42,6 +42,16 @@ A modular business management solution covering **HR, Payroll, Accounts, POS, CM
 
 **Key Areas:** HR · Payroll · Accounts · POS · CMS · Restaurant Management · Payment Integration
 
+### 🌍 BNP Dashboard — World Food Programme
+
+A dashboard and data platform developed for the **Benazir Nashonuma Programme**, providing geographical dashboards and data visualisation from national level down to province, district, and local administrative levels.
+
+The solution uses a **.NET 10 Web API** backend with **Oracle Database**, **Dapper**, **Redis caching**, and **SignalR** for efficient data delivery and real-time updates. The frontend uses **ASP.NET Core Razor** with **Leaflet.js** for interactive map visualisation.
+
+**Technologies:** .NET 10 · ASP.NET Core Web API · C# · Oracle · Dapper · Redis · SignalR · Razor · Leaflet.js
+
+**Key Areas:** Dashboard Development · Data Visualisation · Interactive Maps · Caching · Real-time Updates · API Development
+
 ## 💼 What I Do
 
 - Backend and API development with **ASP.NET Core**
