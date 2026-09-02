@@ -25,6 +25,14 @@ I focus on developing **scalable, maintainable, and practical software solutions
 
 ## 📌 Featured Projects
 
+### 📱 MyApp — Student & Employee Mobile Portal
+
+A mobile portal built with **.NET MAUI**, **ASP.NET Core Web API**, and **SQL Server**, providing student and employee services through a mobile application.
+
+**Technologies:** .NET MAUI · ASP.NET Core Web API · C# · SQL Server · Entity Framework Core · REST API
+
+🔗 [View MyApp Repository](https://github.com/asaddotnetdev/MyApp)
+
 ### MyApp
 A .NET MAUI mobile application with a dedicated ASP.NET Core Web API and shared DTOs/models.
 
